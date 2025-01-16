@@ -1,3 +1,11 @@
+**Message**
+
+I have completed the frontend portion of the coding exam as per the job description. Due to time constraints, I focused on the frontend.
+
+I am confident in my work and would be happy to expand on it with backend implementation if time allows.
+
+Thank you for your time and consideration.
+
 ## Goal UI: Installation and Development Setup
 
 This README provides instructions on how to set up the Goal UI project and start development using Vite.
@@ -6,8 +14,8 @@ This README provides instructions on how to set up the Goal UI project and start
 
 Before we begin, make sure you have the following installed on your system:
 
-* Node.js (version 14.18.0 or above)
-* npm (Node Package Manager) that typically comes bundled with Node.js
+- Node.js (version 14.18.0 or above)
+- npm (Node Package Manager) that typically comes bundled with Node.js
 
 ### Installation
 
