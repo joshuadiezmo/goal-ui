@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Emergency Fund",
+    "date": "2022-06-01",
+    "description": "Build an emergency fund with at least 6 months' worth of living expenses. This provides a financial safety net in case of unexpected events.",
+    "color": "#1E90FF"
+  },
+  {
+    "name": "Debt Reduction",
+    "date": "2022-12-15",
+    "description": "Pay off all high-interest debts, such as credit card balances, to improve financial health and reduce monthly expenses.",
+    "color": "#FF4500"
+  },
+  {
+    "name": "Home Down Payment",
+    "date": "2023-09-01",
+    "description": "Save 20% of the purchase price for a down payment on a home.\nThis reduces monthly payments and avoids private mortgage insurance.",
+    "color": "#32CD32"
+  },
+  {
+    "name": "Retirement Contributions",
+    "date": "2025-02-01",
+    "description": "Increase retirement contributions to reach 15% of annual income.\nFocus on long-term growth through diversified investments.",
+    "color": "#FFD700"
+  },
+  {
+    "name": "Children's Education Fund",
+    "date": "2026-01-15",
+    "description": "Set up a dedicated account to save for children's higher education. Aim to cover tuition and other expenses.",
+    "color": "#8A2BE2"
+  },
+  {
+    "name": "Start a Side Business",
+    "date": "2027-07-10",
+    "description": "Launch a side business to create an additional income stream.\nInvest in skills and resources to ensure its success.",
+    "color": "#FF6347"
+  },
+  {
+    "name": "Vacation Savings",
+    "date": "2027-11-20",
+    "description": "Save for a family vacation abroad. Prioritize experiences over luxury to stay within budget while making lasting memories.",
+    "color": "#40E0D0"
+  },
+  {
+    "name": "Car Upgrade",
+    "date": "2028-06-01",
+    "description": "Set aside funds to upgrade to a more reliable, fuel-efficient vehicle.\nThis reduces maintenance costs and ensures comfort.",
+    "color": "#708090"
+  },
+  {
+    "name": "Investment Portfolio",
+    "date": "2029-03-15",
+    "description": "Diversify investments by including stocks, bonds, and ETFs.\nAim for long-term growth and balanced risk.",
+    "color": "#4682B4"
+  },
+  {
+    "name": "Financial Independence",
+    "date": "2030-12-31",
+    "description": "Achieve financial independence with passive income covering all living expenses. This allows for greater freedom and choice in life.",
+    "color": "#2E8B57"
+  }
+]

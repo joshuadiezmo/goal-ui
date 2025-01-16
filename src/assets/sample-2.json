@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Personal Budget Optimization",
+    "date": "2024-01-01",
+    "description": "Refine personal budgeting skills to allocate expenses efficiently.\nEnsure every dollar has a purpose.",
+    "color": "#4B0082"
+  },
+  {
+    "name": "Short-Term Investment Plan",
+    "date": "2024-01-15",
+    "description": "Set up a short-term investment plan with low-risk options like CDs or treasury bonds to grow savings.",
+    "color": "#FF7F50"
+  },
+  {
+    "name": "Charitable Contributions",
+    "date": "2024-01-30",
+    "description": "Begin making regular contributions to charities or causes aligned with personal values.",
+    "color": "#D2691E"
+  },
+  {
+    "name": "Health Savings Account",
+    "date": "2024-02-10",
+    "description": "Open and fund a Health Savings Account (HSA) to save for medical expenses while enjoying tax benefits.",
+    "color": "#2F4F4F"
+  },
+  {
+    "name": "Small Emergency Fund Replenishment",
+    "date": "2024-02-20",
+    "description": "Replenish a small emergency fund for immediate, unforeseen expenses that might arise.",
+    "color": "#4682B4"
+  },
+  {
+    "name": "International Investment Exploration",
+    "date": "2025-07-01",
+    "description": "Explore international investment opportunities to diversify assets and benefit from global markets.",
+    "color": "#00CED1"
+  },
+  {
+    "name": "Purchase Investment Property",
+    "date": "2026-03-15",
+    "description": "Buy a rental property as a long-term investment to generate passive income.",
+    "color": "#6A5ACD"
+  },
+  {
+    "name": "Major Lifestyle Purchase",
+    "date": "2027-12-10",
+    "description": "Save and plan for a major lifestyle purchase, such as a dream car or luxury experience.",
+    "color": "#C71585"
+  },
+  {
+    "name": "Create a Philanthropic Legacy",
+    "date": "2029-05-01",
+    "description": "Establish a trust or foundation to leave a lasting philanthropic impact.",
+    "color": "#20B2AA"
+  },
+  {
+    "name": "Complete Financial Independence",
+    "date": "2030-12-31",
+    "description": "Reach full financial independence where passive income fully covers living and discretionary expenses.",
+    "color": "#008B8B"
+  }
+]

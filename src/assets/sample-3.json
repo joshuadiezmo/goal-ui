@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Set Up Superannuation Account",
+    "date": "2025-01-15T09:00:00",
+    "description": "Open a superannuation account or review existing contributions to maximise retirement savings and benefits.",
+    "color": "#FF6347"
+  },
+  {
+    "name": "Emergency Fund Check-Up",
+    "date": "2025-02-01T15:00:00",
+    "description": "Review the emergency fund to ensure it covers at least 6 months' worth of essential expenses.",
+    "color": "#4682B4"
+  },
+  {
+    "name": "Research ASX Investment Options",
+    "date": "2025-03-10T10:30:00",
+    "description": "Explore shares, ETFs, or managed funds on the ASX to diversify investments and grow wealth.",
+    "color": "#FFD700"
+  },
+  {
+    "name": "Establish Kids' Education Fund",
+    "date": "2025-05-20T14:00:00",
+    "description": "Set up an education savings plan for future schooling expenses, such as private school fees or university.",
+    "color": "#6A5ACD"
+  },
+  {
+    "name": "Refine Personal Financial Plan",
+    "date": "2025-05-20T16:30:00",
+    "description": "Consult a financial planner to update and refine a comprehensive strategy for long-term wealth building.",
+    "color": "#2E8B57"
+  },
+  {
+    "name": "Explore Passive Income Opportunities",
+    "date": "2025-07-01T13:00:00",
+    "description": "Look into Australian property investments or high-yield savings accounts to create reliable passive income streams.",
+    "color": "#20B2AA"
+  },
+  {
+    "name": "Review Financial Year Goals",
+    "date": "2025-12-15T11:00:00",
+    "description": "As the financial year ends, assess progress on goals and set priorities for the new tax year.",
+    "color": "#FF4500"
+  }
+]

@@ -1,0 +1,296 @@
+[
+  {
+    "name": "Achieve Full Financial Independence",
+    "date": "2050-12-31T17:00:00",
+    "description": "Generate sufficient passive income to cover all living expenses and achieve total financial freedom.",
+    "color": "#FFD700"
+  },
+  {
+    "name": "Establish Emergency Fund",
+    "date": "2022-03-01T09:00:00",
+    "description": "Create an emergency fund to cover six months of essential expenses for unexpected situations.",
+    "color": "#FF6347"
+  },
+  {
+    "name": "Pay Down Business Debt",
+    "date": "2033-04-20T09:00:00",
+    "description": "Accelerate payments to reduce the debt burden on your business and improve cash flow.",
+    "color": "#6A5ACD"
+  },
+  {
+    "name": "Plan a Sabbatical Year",
+    "date": "2034-06-01T14:00:00",
+    "description": "Save for a sabbatical year to focus on personal growth or family time.",
+    "color": "#2E8B57"
+  },
+  {
+    "name": "Plan Estate Distribution",
+    "date": "2042-09-10T14:45:00",
+    "description": "Work with an estate planner to create a will and distribute assets according to personal wishes.",
+    "color": "#4682B4"
+  },
+  {
+    "name": "Maximise Tax Returns",
+    "date": "2028-07-15T09:30:00",
+    "description": "Work with an accountant to optimise tax returns and reinvest the refund.",
+    "color": "#20B2AA"
+  },
+  {
+    "name": "Start Kids' Education Fund",
+    "date": "2023-11-01T15:00:00",
+    "description": "Establish a savings plan for future schooling expenses, such as private school fees.",
+    "color": "#2E8B57"
+  },
+  {
+    "name": "Explore Retirement Living Options",
+    "date": "2038-07-01T09:00:00",
+    "description": "Research and evaluate retirement living communities for the future.",
+    "color": "#FF4500"
+  },
+  {
+    "name": "Review Long-Term Financial Goals",
+    "date": "2031-01-25T09:30:00",
+    "description": "Reassess long-term financial plans to ensure alignment with life changes and goals.",
+    "color": "#FFD700"
+  },
+  {
+    "name": "Fund a Community Project",
+    "date": "2038-02-25T13:30:00",
+    "description": "Allocate resources to support a community initiative or development project.",
+    "color": "#4682B4"
+  },
+  {
+    "name": "Refinance Mortgage",
+    "date": "2037-11-15T09:00:00",
+    "description": "Consider refinancing the mortgage to secure a lower interest rate and reduce payments.",
+    "color": "#FF6347"
+  },
+  {
+    "name": "Plan for Early Retirement",
+    "date": "2033-06-01T15:00:00",
+    "description": "Work with a financial advisor to create a strategy for achieving early retirement by 2040.",
+    "color": "#6A5ACD"
+  },
+  {
+    "name": "Celebrate Financial Freedom",
+    "date": "2050-12-31T18:00:00",
+    "description": "Plan a celebration to mark achieving full financial independence and freedom.",
+    "color": "#FF4500"
+  },
+  {
+    "name": "Plan for a Second Property",
+    "date": "2027-04-01T11:00:00",
+    "description": "Start saving for a second property as an investment or vacation home.",
+    "color": "#6A5ACD"
+  },
+  {
+    "name": "Build a Travel Fund",
+    "date": "2025-09-30T16:00:00",
+    "description": "Create a dedicated fund for regular travel and adventure.",
+    "color": "#4682B4"
+  },
+  {
+    "name": "Save for Anniversary Celebration",
+    "date": "2024-06-10T14:00:00",
+    "description": "Plan and save for a memorable celebration for your next milestone anniversary.",
+    "color": "#FF4500"
+  },
+  {
+    "name": "Pay Off Credit Card Debt",
+    "date": "2022-08-15T14:30:00",
+    "description": "Focus on clearing all high-interest credit card debt to improve financial health and cash flow.",
+    "color": "#4682B4"
+  },
+  {
+    "name": "Increase Retirement Contributions",
+    "date": "2026-01-15T10:00:00",
+    "description": "Boost retirement account contributions to take advantage of compounding growth.",
+    "color": "#FFD700"
+  },
+  {
+    "name": "Pay Off Mortgage",
+    "date": "2035-12-15T12:00:00",
+    "description": "Make lump sum payments to pay off the home mortgage earlier than planned.",
+    "color": "#20B2AA"
+  },
+  {
+    "name": "Save for Kids' University Costs",
+    "date": "2034-03-10T10:00:00",
+    "description": "Ensure adequate funds are set aside to cover higher education expenses for children.",
+    "color": "#2E8B57"
+  },
+  {
+    "name": "Contribute to Superannuation",
+    "date": "2023-02-10T10:00:00",
+    "description": "Increase regular contributions to superannuation to build a solid retirement fund.",
+    "color": "#FFD700"
+  },
+  {
+    "name": "Save for a Grandchildren’s Fund",
+    "date": "2045-01-15T10:00:00",
+    "description": "Set aside money for your grandchildren's future education or milestones.",
+    "color": "#20B2AA"
+  },
+  {
+    "name": "Invest in ASX ETF",
+    "date": "2023-06-05T13:00:00",
+    "description": "Start investing in an ASX-listed ETF to diversify assets and gain long-term growth.",
+    "color": "#6A5ACD"
+  },
+  {
+    "name": "Plan a Major Donation",
+    "date": "2031-05-10T10:00:00",
+    "description": "Identify a cause or organisation to make a significant financial contribution.",
+    "color": "#4682B4"
+  },
+  {
+    "name": "Take a Financial Literacy Course",
+    "date": "2025-03-15T09:00:00",
+    "description": "Enroll in a course to improve your financial decision-making skills and knowledge.",
+    "color": "#FF6347"
+  },
+  {
+    "name": "Build a Philanthropic Legacy",
+    "date": "2040-05-20T11:15:00",
+    "description": "Establish a charitable trust or foundation to make a lasting community impact.",
+    "color": "#FF6347"
+  },
+  {
+    "name": "Contribute to Emergency Fund",
+    "date": "2027-11-10T15:30:00",
+    "description": "Add additional savings to the emergency fund to cover unforeseen events.",
+    "color": "#2E8B57"
+  },
+  {
+    "name": "Explore Annuities for Retirement",
+    "date": "2032-09-01T15:45:00",
+    "description": "Evaluate the benefits of annuities as part of a retirement income strategy.",
+    "color": "#FFD700"
+  },
+  {
+    "name": "Establish Passive Income Streams",
+    "date": "2035-01-10T11:00:00",
+    "description": "Expand passive income through investments in real estate or dividend stocks.",
+    "color": "#20B2AA"
+  },
+  {
+    "name": "Create a Household Budget",
+    "date": "2024-01-20T08:30:00",
+    "description": "Implement a monthly household budget to track income and expenses more effectively.",
+    "color": "#20B2AA"
+  },
+  {
+    "name": "Retirement Fund Check-Up",
+    "date": "2025-12-01T11:00:00",
+    "description": "Meet with a financial advisor to review the retirement fund and make necessary adjustments.",
+    "color": "#4682B4"
+  },
+  {
+    "name": "Increase Emergency Fund Savings",
+    "date": "2026-03-30T09:15:00",
+    "description": "Add an additional three months' worth of expenses to the emergency fund.",
+    "color": "#FFD700"
+  },
+  {
+    "name": "Save for Family Holiday",
+    "date": "2025-06-15T14:45:00",
+    "description": "Allocate funds to take the family on an international holiday within the next two years.",
+    "color": "#FF6347"
+  },
+  {
+    "name": "Upgrade Home Office Setup",
+    "date": "2030-02-05T11:00:00",
+    "description": "Invest in a more efficient and ergonomic home office to enhance productivity.",
+    "color": "#FF6347"
+  },
+  {
+    "name": "Purchase Investment Property",
+    "date": "2024-09-10T12:00:00",
+    "description": "Buy a rental property to generate passive income and diversify the investment portfolio.",
+    "color": "#FF4500"
+  },
+  {
+    "name": "Maximise Super Contributions",
+    "date": "2029-05-01T14:00:00",
+    "description": "Increase contributions to superannuation to the maximum allowable level for tax benefits.",
+    "color": "#FF6347"
+  },
+  {
+    "name": "Start Philanthropic Giving",
+    "date": "2028-02-15T10:30:00",
+    "description": "Establish regular donations to a charitable organisation or community project.",
+    "color": "#FF4500"
+  },
+  {
+    "name": "Reassess Financial Independence Goals",
+    "date": "2040-09-15T16:00:00",
+    "description": "Evaluate progress toward financial independence and make necessary adjustments.",
+    "color": "#6A5ACD"
+  },
+  {
+    "name": "Save for Home Renovation",
+    "date": "2027-04-10T13:30:00",
+    "description": "Set aside funds to remodel and upgrade the kitchen and living area.",
+    "color": "#20B2AA"
+  },
+  {
+    "name": "Explore ESG Investments",
+    "date": "2026-07-20T10:00:00",
+    "description": "Research and invest in environmentally and socially responsible funds to align investments with values.",
+    "color": "#6A5ACD"
+  },
+  {
+    "name": "Explore Dividend Stocks",
+    "date": "2023-07-20T15:00:00",
+    "description": "Invest in dividend-paying stocks to create a passive income stream.",
+    "color": "#20B2AA"
+  },
+  {
+    "name": "Create a Will and Testament",
+    "date": "2042-03-01T14:30:00",
+    "description": "Work with a legal advisor to ensure assets are distributed according to your wishes.",
+    "color": "#2E8B57"
+  },
+  {
+    "name": "Diversify Investment Portfolio",
+    "date": "2030-08-10T11:45:00",
+    "description": "Expand investments to include international stocks and managed funds.",
+    "color": "#4682B4"
+  },
+  {
+    "name": "Pay Off Car Loan",
+    "date": "2026-12-05T16:00:00",
+    "description": "Make extra payments to clear the car loan early, reducing monthly financial commitments.",
+    "color": "#2E8B57"
+  },
+  {
+    "name": "Research Retirement Travel Plans",
+    "date": "2029-03-25T14:30:00",
+    "description": "Explore destinations and estimate costs for extended travel during retirement.",
+    "color": "#FF4500"
+  },
+  {
+    "name": "Contribute to Kids' Savings",
+    "date": "2023-02-05T11:30:00",
+    "description": "Regularly deposit into a savings account for your kids' future financial needs.",
+    "color": "#2E8B57"
+  },
+  {
+    "name": "Review Asset Allocation",
+    "date": "2036-08-20T10:30:00",
+    "description": "Rebalance your portfolio to reflect changes in risk tolerance and goals.",
+    "color": "#FF4500"
+  },
+  {
+    "name": "Plan for Aged Care Costs",
+    "date": "2039-05-10T11:15:00",
+    "description": "Prepare a financial plan for aged care expenses, including in-home care or facility costs.",
+    "color": "#FFD700"
+  },
+  {
+    "name": "Open a High-Yield Savings Account",
+    "date": "2022-04-15T10:00:00",
+    "description": "Set up a high-yield savings account to earn more interest on idle cash.",
+    "color": "#6A5ACD"
+  }
+]

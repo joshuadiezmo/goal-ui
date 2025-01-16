@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html,
+body,
+#root {
+  height: 100%;
+}
+
+.filter {
+  transition: all 0.15s;
+}
+
+.filter.preEnter,
+.filter.exiting {
+  opacity: 0;
+  transform: translateY(-10%);
+}
+
+.filter.exited {
+  display: none;
+}
