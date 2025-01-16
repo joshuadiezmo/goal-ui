@@ -1,50 +1,52 @@
-# React + TypeScript + Vite
+## Goal UI: Installation and Development Setup
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This README provides instructions on how to set up the Goal UI project and start development using Vite.
 
-Currently, two official plugins are available:
+### Prerequisites
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Before we begin, make sure you have the following installed on your system:
 
-## Expanding the ESLint configuration
+* Node.js (version 14.18.0 or above)
+* npm (Node Package Manager) that typically comes bundled with Node.js
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
+### Installation
 
-- Configure the top-level `parserOptions` property like this:
+1. **Clone the Existing Project:**
 
-```js
-export default tseslint.config({
-  languageOptions: {
-    // other options...
-    parserOptions: {
-      project: ['./tsconfig.node.json', './tsconfig.app.json'],
-      tsconfigRootDir: import.meta.dirname,
-    },
-  },
-})
-```
+   If you don't have the project cloned locally yet, use the following command in your terminal to clone it from GitHub:
 
-- Replace `tseslint.configs.recommended` to `tseslint.configs.recommendedTypeChecked` or `tseslint.configs.strictTypeChecked`
-- Optionally add `...tseslint.configs.stylisticTypeChecked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and update the config:
+   ```bash
+   git clone git@github.com:joshuadiezmo/goal-ui.git
+   ```
 
-```js
-// eslint.config.js
-import react from 'eslint-plugin-react'
+   This will create a local copy of your project on your machine.
 
-export default tseslint.config({
-  // Set the react version
-  settings: { react: { version: '18.3' } },
-  plugins: {
-    // Add the react plugin
-    react,
-  },
-  rules: {
-    // other rules...
-    // Enable its recommended rules
-    ...react.configs.recommended.rules,
-    ...react.configs['jsx-runtime'].rules,
-  },
-})
-```
+2. **Navigate to the Project Directory:**
+
+   ```bash
+   cd goal-ui
+   ```
+
+3. **Install Dependencies:**
+
+   Most Vite projects use npm or yarn to manage dependencies. Navigate to your project directory and run the following command to install the required dependencies:
+
+   ```bash
+   yarn install
+   ```
+
+   This will install all the necessary packages listed in your project's `package.json` file.
+
+4. **Start the Development Server:**
+
+   Once the dependencies are installed, you can start the Vite development server using:
+
+   ```bash
+   yarn dev
+   ```
+
+   This will launch the development server, allowing you to work on your project and see changes reflected in the browser.
+
+5. **Readme.md Updates:**
+
+   The provided README.MD instructions assume a new project setup. You can keep the general guidelines about development server usage and refer to the official Vite documentation for more advanced configurations.
